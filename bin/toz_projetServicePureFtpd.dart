@@ -162,6 +162,5 @@ class DevOps {
   }
 }
 
-// Commande compilation : "dart compile exe Perso/projetServicePureFtpd.dart -o /tmp/pureFtpd"
 // stdout = canal 1 bash
 // stderr = canal 2 bash

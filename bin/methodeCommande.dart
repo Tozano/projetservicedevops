@@ -73,6 +73,7 @@ class CMD {
     await execBash(cmdInstall);
   }
 
+  // Pour supprimer les réponses contenant un caractère de retour à la ligne
   static String repIntoString(String rep) {
     int l = rep.length;
     String modif = "";
